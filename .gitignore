@@ -1,0 +1,17 @@
+# Server
+server/.venv/
+server/data/
+server/uploads/
+server/.env
+server/__pycache__/
+server/**/__pycache__/
+server/*.pyc
+
+# Client
+client/node_modules/
+client/dist/
+client/.env.local
+
+# General
+.DS_Store
+*.log
