@@ -11,7 +11,9 @@ server/*.pyc
 client/node_modules/
 client/dist/
 client/.env.local
+client/.vite
 
 # General
 .DS_Store
 *.log
+.claude
